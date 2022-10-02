@@ -1,0 +1,15 @@
+C:\Users\10W\Documents\C#\new seminar1\bin\Debug\net6.0\new seminar1.exe
+C:\Users\10W\Documents\C#\new seminar1\bin\Debug\net6.0\new seminar1.deps.json
+C:\Users\10W\Documents\C#\new seminar1\bin\Debug\net6.0\new seminar1.runtimeconfig.json
+C:\Users\10W\Documents\C#\new seminar1\bin\Debug\net6.0\new seminar1.dll
+C:\Users\10W\Documents\C#\new seminar1\bin\Debug\net6.0\new seminar1.pdb
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\new seminar1.csproj.AssemblyReference.cache
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\new seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\new seminar1.AssemblyInfoInputs.cache
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\new seminar1.AssemblyInfo.cs
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\new seminar1.csproj.CoreCompileInputs.cache
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\new seminar1.dll
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\refint\new seminar1.dll
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\new seminar1.pdb
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\new seminar1.genruntimeconfig.cache
+C:\Users\10W\Documents\C#\new seminar1\obj\Debug\net6.0\ref\new seminar1.dll
